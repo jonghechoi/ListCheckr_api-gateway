@@ -7,7 +7,6 @@ def TARGET_DOCKER_CONTAINER = 'api-gateway'
 def DOCKER_HUB_REGISTRY = 'https://registry.hub.docker.com'
 def DOCKER_HUB_USERNAME = 'sosinnmi2'
 def DOCKER_HUB_REPOSITORY = 'api-gateway'
-
 def PROFILE = 'dev'
 
 pipeline {
